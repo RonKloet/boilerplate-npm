@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Ron Kloet"
+	"author": "Ron Kloet",
+	"description": "This will be the first of many apps",
 }

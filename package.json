@@ -13,5 +13,6 @@
 	},
 	"author": "Ron Kloet",
 	"description": "This will be the first of many apps",
-	"keywords": [ "learning", "microservices", "api", "freecodecamp" ]
+	"keywords": [ "learning", "microservices", "api", "freecodecamp" ],
+	"license": "MIT"
 }

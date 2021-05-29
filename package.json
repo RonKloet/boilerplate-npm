@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Ron Kloet",
-	"description": "This will be the first of many apps"
+	"description": "This will be the first of many apps",
+	"keywords": [ "learning", "microservices", "api" ]
 }
